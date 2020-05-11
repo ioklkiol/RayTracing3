@@ -12,9 +12,20 @@ namespace Step1
 {
     public partial class Form1 : Form
     {
+        public static Form1 main;
+        private Renderer renderer = new Renderer();
+
         public Form1()
         {
             InitializeComponent();
+            main = this;
+            renderer.Init();
+            //this.WindowState = FormWindowState.Minimized;
+            //this.ShowInTaskbar = false;
         }
+
+      
     }
+
 }
+
