@@ -1,0 +1,11 @@
+C:\Users\omnis\source\repos\RayTracing3\Step05\bin\Release\Step05.exe.config
+C:\Users\omnis\source\repos\RayTracing3\Step05\bin\Release\Step05.exe
+C:\Users\omnis\source\repos\RayTracing3\Step05\bin\Release\Step05.pdb
+C:\Users\omnis\source\repos\RayTracing3\Step05\bin\Release\AcDx.dll
+C:\Users\omnis\source\repos\RayTracing3\Step05\obj\Release\Step5.Form1.resources
+C:\Users\omnis\source\repos\RayTracing3\Step05\obj\Release\Step05.Properties.Resources.resources
+C:\Users\omnis\source\repos\RayTracing3\Step05\obj\Release\Step05.csproj.GenerateResource.cache
+C:\Users\omnis\source\repos\RayTracing3\Step05\obj\Release\Step05.csproj.CoreCompileInputs.cache
+C:\Users\omnis\source\repos\RayTracing3\Step05\obj\Release\Step05.csproj.CopyComplete
+C:\Users\omnis\source\repos\RayTracing3\Step05\obj\Release\Step05.exe
+C:\Users\omnis\source\repos\RayTracing3\Step05\obj\Release\Step05.pdb
