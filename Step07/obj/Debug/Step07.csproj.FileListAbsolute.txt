@@ -1,0 +1,12 @@
+G:\RayTracingVer\RayTracing3\Step07\bin\Debug\Step07.exe.config
+G:\RayTracingVer\RayTracing3\Step07\bin\Debug\Step07.exe
+G:\RayTracingVer\RayTracing3\Step07\bin\Debug\Step07.pdb
+G:\RayTracingVer\RayTracing3\Step07\bin\Debug\AcDx.dll
+G:\RayTracingVer\RayTracing3\Step07\obj\Debug\Step07.csprojAssemblyReference.cache
+G:\RayTracingVer\RayTracing3\Step07\obj\Debug\Step7.Form1.resources
+G:\RayTracingVer\RayTracing3\Step07\obj\Debug\Step07.Properties.Resources.resources
+G:\RayTracingVer\RayTracing3\Step07\obj\Debug\Step07.csproj.GenerateResource.cache
+G:\RayTracingVer\RayTracing3\Step07\obj\Debug\Step07.csproj.CoreCompileInputs.cache
+G:\RayTracingVer\RayTracing3\Step07\obj\Debug\Step07.csproj.CopyComplete
+G:\RayTracingVer\RayTracing3\Step07\obj\Debug\Step07.exe
+G:\RayTracingVer\RayTracing3\Step07\obj\Debug\Step07.pdb

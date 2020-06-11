@@ -10,3 +10,15 @@ C:\Users\omnis\source\repos\RayTracing3\Step06\obj\Release\Step06.csproj.CopyCom
 C:\Users\omnis\source\repos\RayTracing3\Step06\obj\Release\Step06.exe
 C:\Users\omnis\source\repos\RayTracing3\Step06\obj\Release\Step06.pdb
 C:\Users\omnis\source\repos\RayTracing3\Step06\obj\Release\Step06.csprojAssemblyReference.cache
+G:\RayTracingVer\RayTracing3\Step06\bin\Release\Step06.exe.config
+G:\RayTracingVer\RayTracing3\Step06\bin\Release\Step06.exe
+G:\RayTracingVer\RayTracing3\Step06\bin\Release\Step06.pdb
+G:\RayTracingVer\RayTracing3\Step06\bin\Release\AcDx.dll
+G:\RayTracingVer\RayTracing3\Step06\obj\Release\Step06.csprojAssemblyReference.cache
+G:\RayTracingVer\RayTracing3\Step06\obj\Release\Step6.Form1.resources
+G:\RayTracingVer\RayTracing3\Step06\obj\Release\Step06.Properties.Resources.resources
+G:\RayTracingVer\RayTracing3\Step06\obj\Release\Step06.csproj.GenerateResource.cache
+G:\RayTracingVer\RayTracing3\Step06\obj\Release\Step06.csproj.CoreCompileInputs.cache
+G:\RayTracingVer\RayTracing3\Step06\obj\Release\Step06.csproj.CopyComplete
+G:\RayTracingVer\RayTracing3\Step06\obj\Release\Step06.exe
+G:\RayTracingVer\RayTracing3\Step06\obj\Release\Step06.pdb
